@@ -4,3 +4,4 @@ This is a place where I can put things.  They may or may not be interesting thin
 
 ## My Octocat
 
+![alt text](octocat.png "Weird Octocat")
